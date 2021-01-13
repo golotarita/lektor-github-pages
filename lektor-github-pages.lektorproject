@@ -1,0 +1,5 @@
+[project]
+name = lektor-github-pages
+
+[servers.ghpages]
+target = ghpages+https://golotarita:1824053bbcfffbe0f771493d11c7ba71a3b21ac6@golotarita/golotarita/lektor-github-pages
